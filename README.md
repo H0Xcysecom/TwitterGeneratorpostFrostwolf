@@ -17,7 +17,7 @@ Website untuk membuat post Twitter otomatis, membuat tulisan kata-kata tertentu.
 
 # my contact
 <p align="center">
-  <a href="https://t.me/ownFrostWolf">
+  <a href="https://t.me/ownFrostWolff">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@latest_news_team.markasv?_t=ZS-8zmyWM7yZBB&_r=1">
